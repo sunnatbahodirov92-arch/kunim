@@ -1,0 +1,5 @@
+node_modules/
+android/
+*.jks
+*.jks.base64.txt
+.DS_Store
